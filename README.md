@@ -1,0 +1,1 @@
+Trong project hay tao ra file README.md tai vi cho moi nguoi biet trong project co tac dung gi
